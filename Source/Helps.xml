@@ -4,8 +4,16 @@
   <Header>
     <Version val="14050.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="0"/>
+    <LastIsn val="1"/>
     <LastIsnFolder val="0"/>
   </Header>
+
+  <HelpRepository>
+    <HelpScreens>
+      <Help Type="I" id="1" name="help1">
+        <PropertyList model="HELP_INTERNAL"/>
+      </Help>
+    </HelpScreens>
+  </HelpRepository>
 
 </Application>

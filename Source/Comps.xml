@@ -5,7 +5,7 @@
     <Version val="14050.00"/>
     <WithIsn val="Y"/>
     <Exe comp="-1"/>
-    <LastIsn val="22"/>
+    <LastIsn val="23"/>
     <LastIsnFolder val="1"/>
     <Folders>
       <Folder id="1">
@@ -256,6 +256,11 @@
         <AssemblyPath val="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll"/>
         <UseSpecificVersion val="N"/>
         <isGuiThreadExecution val="N"/>
+      </Component>
+      <Component FolderIsn="1" id="23" name="abcd">
+        <ComponentType val="Magic xpa"/>
+        <Type val="U"/>
+        <LoadImmediate val="N"/>
       </Component>
     </Components>
   </ComponentsRepository>

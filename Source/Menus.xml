@@ -4,7 +4,7 @@
   <Header>
     <Version val="14050.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="5"/>
+    <LastIsn val="6"/>
   </Header>
 
   <MenusRepository>
@@ -2162,6 +2162,11 @@
             </MenuEntry>
           </Menu>
         </MenuEntry>
+      </Menu>
+      <Menu>
+        <ToolNumber val="6"/>
+        <Name val="mnu1"/>
+        <LastIsn val="1"/>
       </Menu>
     </Menus>
   </MenusRepository>
